@@ -4,7 +4,6 @@ import "../App.css";
 const Examiner = () => {
   return (
     <div className="page-container">
-      <div className="left-panel"></div>
       <div className="right-panel">
         <div className="page-box">
           <h1>Examiner Dashboard</h1>

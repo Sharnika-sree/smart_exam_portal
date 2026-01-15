@@ -5,10 +5,6 @@ import "../App.css";
 const Admin = () => {
   return (
     <div className="page-container">
-      <div
-        className="left-panel"
-        style={{ backgroundImage: `url(${examImage})` }}
-      ></div>
       <div className="right-panel">
         <div className="page-box">
           <h1>Admin Dashboard</h1>

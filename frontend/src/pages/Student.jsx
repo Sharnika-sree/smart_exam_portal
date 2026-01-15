@@ -5,10 +5,6 @@ import "../App.css";
 const Student = () => {
   return (
     <div className="page-container">
-      <div
-        className="left-panel"
-        style={{ backgroundImage: `url(${examImage})` }}
-      ></div>
       <div className="right-panel">
         <div className="page-box">
           <h1>Student Dashboard</h1>
